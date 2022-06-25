@@ -1,5 +1,6 @@
 # WoW – Words of Wisdom
 A selected collection of work samples in technical writing.
+
 As a Learning and Enablement Intern for SAP HANA Cloud, I published the following list of tutorials 
 on the SAP Tutorial Navigator website:
 | Table | Description |
