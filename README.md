@@ -1,2 +1,3 @@
-# VijayKrishnanSR.github.io
-A selected collection of my work samples and an updated portfolio
+# WoW - Words of Wisdom
+#### A selected collection of work samples in technical writing.
+
