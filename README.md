@@ -1,4 +1,3 @@
-# Vijay Krishnan 
 ### Technical Writing Portfolio – Words of Wisdom (WoW)
 
 Hi,
