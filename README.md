@@ -1,16 +1,20 @@
 # Vijay Krishnan 
 ### Technical Writing Portfolio – Words of Wisdom (WoW)
 
+author_name: Vijay Krishnan South Madavana Radhakrishnan
+author_profile: https://github.com/VijayKrishnanSR
+
 Hi,
 
 I am Vijay! Here, you will find the links to some of my tutorials on SAP HANA Cloud.
 
 As an aspiring technical writer, I would love to hear your feedback on any of these work samples.
 
-While working as a Learning and Enablement Intern for SAP HANA Cloud at SAP, I published the following list of tutorials 
+While working as a Learning and Enablement Intern for SAP HANA Cloud at SAP, I published the following tutorials 
 on the SAP Tutorial Navigator website:
 
-[**Data Anonymization in SAP HANA Cloud, SAP HANA Database**](https://developers.sap.com/group.hana-cloud-database-data-anonymization.html): *Learn how to use data anonymization capabilities in SAP HANA Cloud, SAP HANA database to access data that was previously available yet not accessible due to data privacy rules and regulations.*
+[**Data Anonymization in SAP HANA Cloud, SAP HANA Database**](https://developers.sap.com/group.hana-cloud-database-data-anonymization.html)
+*Learn how to use data anonymization capabilities in SAP HANA Cloud, SAP HANA database to access data that was previously available yet not accessible due to data privacy rules and regulations.*
 
 [**Connection Guides for SAP HANA Cloud, SAP HANA Database**](https://developers.sap.com/group.hana-cloud-database-connection-guides.html): *Learn to create connections to and from SAP HANA database in SAP HANA Cloud. Connections included here are: SAP Data Intelligence Cloud, SAP Analytics Cloud, SAP Business Warehouse powered by SAP HANA, and Jupyter Notebooks.*
 
@@ -22,5 +26,11 @@ on the SAP Tutorial Navigator website:
 
 [**Get Started with a Standalone SAP HANA Cloud, Data Lake**](https://developers.sap.com/mission.hana-cloud-data-lake-get-started.html): *Learn the basics of working with a standalone SAP HANA Cloud, data lake, from provision the data lake, loading data, monitoring the data lake, and performing backup and recovery.*
 
-As part of SAP HANA Cloud Workshop series on Collaborative Database Developement, I created the workbook (.pdf file) for each of the three sessions. The workbooks consisted of step-by-step instructions that were part of the workshop session. 
+As part of SAP HANA Cloud Workshop series on Collaborative Database Developement, I created the workbook (.pdf file) for each of the three sessions. The workbooks consisted of step-by-step instructions that were part of the workshop session.
+
+You can watch the recording of the above workshop session held during SAP TechEd 2021.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kRxZ2exSal4" frameborder="0" allowfullscreen></iframe>
+
+Thank you!
+
 ***
