@@ -34,7 +34,7 @@ on the SAP Tutorial Navigator website:
 
     *Learn the basics of working with a standalone SAP HANA Cloud, data lake, from provision the data lake, loading data, monitoring the data lake, and performing backup and recovery.*
 
-- As part of SAP HANA Cloud Workshop series on Collaborative Database Developement, I created the workbook (.pdf file) for each of the three sessions. The workbooks consisted of step-by-step instructions that were part of the workshop session.
+- As part of [SAP HANA Cloud Workshop series on Collaborative Database Developement](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&eventid=3342381&sessionid=1&key=E81F3BBAD36BF0C5BE73AFBC18EF81CD&groupId=2764517&sourcepage=register), I created the workbook (.pdf file) for each of the three sessions. The workbooks are a step-by-step guide for all the instructions that were part of the workshop sessions. These instructions were later re-designed as a tutorial group.
 
 You can watch the recording of the above workshop session held during SAP TechEd 2021.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kRxZ2exSal4" frameborder="0" allowfullscreen></iframe>
