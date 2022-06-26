@@ -1,10 +1,6 @@
 # Vijay Krishnan 
 ### Technical Writing Portfolio – Words of Wisdom (WoW)
 
-author_name: Vijay Krishnan South Madavana Radhakrishnan
-
-author_profile: https://github.com/VijayKrishnanSR
-
 Hi,
 
 I am Vijay! Here, you will find the links to some of my tutorials on SAP HANA Cloud.
@@ -32,6 +28,11 @@ As part of SAP HANA Cloud Workshop series on Collaborative Database Developement
 You can watch the recording of the above workshop session held during SAP TechEd 2021.  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kRxZ2exSal4" frameborder="0" allowfullscreen></iframe>
 
+
 Thank you!
+
+Vijay Krishnan South Madavana Radhakrishnan
+
+author_profile: https://github.com/VijayKrishnanSR
 
 ***
