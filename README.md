@@ -4,7 +4,7 @@ A selected collection of work samples in technical writing.
 As a Learning and Enablement Intern for SAP HANA Cloud, I published the following list of tutorials 
 on the SAP Tutorial Navigator website:
 | Table | Description |
-| ----- |:-----------:|
+| ----- |-----------|
 |[**Data Anonymization in SAP HANA Cloud, SAP HANA Database**](https://developers.sap.com/group.hana-cloud-database-data-anonymization.html)| Learn how to use data anonymization capabilities in SAP HANA Cloud, SAP HANA database to access data that was previously available yet not accessible due to data privacy rules and regulations.|
 |[**Connection Guides for SAP HANA Cloud, SAP HANA Database**](https://developers.sap.com/group.hana-cloud-database-connection-guides.html)| Learn to create connections to and from SAP HANA database in SAP HANA Cloud. Connections included here are: SAP Data Intelligence Cloud, SAP Analytics Cloud, SAP Business Warehouse powered by SAP HANA, and Jupyter Notebooks.|
 |[**Smart Multi-Model Data Processing with SAP HANA Cloud**](https://developers.sap.com/group.hana-cloud-smart-multi-model-data.html)| Get to know spatial and graph processing in SAP HANA Cloud, SAP HANA database with 10 hands-on exercises. Use your own (trial) database and our sample data to experience the advantages of smart multi-model data processing.|
