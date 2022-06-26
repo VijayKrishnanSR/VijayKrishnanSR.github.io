@@ -28,7 +28,7 @@ on the SAP Tutorial Navigator website:
 
 - Atom Text Editor
 - GitHub
-- Techsmith's Camtasia and Snagit
+- TechSmith Camtasia and Snagit
 - Microsoft 365
 - Asana
 
