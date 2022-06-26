@@ -26,8 +26,8 @@ on the SAP Tutorial Navigator website:
 
 #### Workshop Series on SAP HANA Cloud
 
-- As part of the [SAP HANA Cloud Workshop series on Collaborative Database Development](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&eventid=3342381&sessionid=1&key=E81F3BBAD36BF0C5BE73AFBC18EF81CD&groupId=2764517&sourcepage=register), I created the preparation document and the workbook (.pdf file) for each of the three sessions. Check out the [preparation document](https://www.sap.com/documents/2021/09/4054ec9c-fa7d-0010-bca6-c68f7e60039b.html) for this workshop.
-- The workbooks are a step-by-step guide for all the instructions that were part of the workshop sessions. These instructions were later re-designed as a tutorial group.
+- As part of the [SAP HANA Cloud Workshop series on Collaborative Database Development](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&eventid=3342381&sessionid=1&key=E81F3BBAD36BF0C5BE73AFBC18EF81CD&groupId=2764517&sourcepage=register), I created the preparation document and the workbooks (.pdf file) for each of the three sessions. Check out the [preparation document](https://www.sap.com/documents/2021/09/4054ec9c-fa7d-0010-bca6-c68f7e60039b.html) for this workshop.
+- The workbooks are a step-by-step guide for all the instructions that were part of the workshop sessions. These instructions were later published as a tutorial group.
 
 #### Business Impact
 
