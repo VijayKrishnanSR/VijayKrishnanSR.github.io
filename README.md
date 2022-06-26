@@ -47,7 +47,7 @@ Thank you!
 
 Vijay Krishnan South Madavana Radhakrishnan
 
-!(GitHub-Mark.png) [GitHub profile](https://github.com/VijayKrishnanSR)
+![GitHub-Mark.png](https://github.com/VijayKrishnanSR/VijayKrishnanSR.github.io/blob/main/GitHub-Mark.png) [GitHub profile](https://github.com/VijayKrishnanSR)
 
 LinkedIn profile: <https://www.linkedin.com/in/vijay-krishnan-south-madavana-radhakrishnan-87842077/>
 
