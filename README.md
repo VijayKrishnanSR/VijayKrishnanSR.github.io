@@ -47,6 +47,8 @@ Thank you!
 
 Vijay Krishnan South Madavana Radhakrishnan
 
-author_profile: https://github.com/VijayKrishnanSR
+GitHub profile: <https://github.com/VijayKrishnanSR>
+
+LinkedIn profile: <https://www.linkedin.com/in/vijay-krishnan-south-madavana-radhakrishnan-87842077/>
 
 ***
