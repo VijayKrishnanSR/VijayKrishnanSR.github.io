@@ -32,7 +32,7 @@ on the SAP Tutorial Navigator website:
 #### Business Impact
 
 - Achieve **marketing influenced opportunities** for product sales through leads generated via Workshops and Tutorials.
-- Tutorials motivate the target audience to try the product in free trial version and also test the latest product features.
+- Tutorials motivate the target audience to try the product in a free trial environment and test the latest product features.
 - Workshops provide an interactive platform for the audience to learn about the most requested topics relating to the product.
 
 #### My Toolkit
@@ -47,7 +47,7 @@ on the SAP Tutorial Navigator website:
 - Administrator, Architect, Consultant, Data Scientist, Developer
 
 
-You can watch the recording of the above workshop session held during SAP TechEd 2021.  
+You can watch the recording of the workshop session mentioned above held during SAP TechEd 2021.  
 <iframe width="480" height="360" src="https://www.youtube.com/embed/kRxZ2exSal4" frameborder="0" allowfullscreen></iframe>
 
 
