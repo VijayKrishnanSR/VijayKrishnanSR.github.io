@@ -32,6 +32,9 @@ on the SAP Tutorial Navigator website:
 - Microsoft 365
 - Asana
 
+#### Target Audience
+- Administrator, Architect, Consultant, Data Scientist, Developer
+
 #### Workshop Series on SAP HANA Cloud
 
 - As part of [SAP HANA Cloud Workshop series on Collaborative Database Developement](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&eventid=3342381&sessionid=1&key=E81F3BBAD36BF0C5BE73AFBC18EF81CD&groupId=2764517&sourcepage=register), I created the workbook (.pdf file) for each of the three sessions. The workbooks are a step-by-step guide for all the instructions that were part of the workshop sessions. These instructions were later re-designed as a tutorial group.
