@@ -2,6 +2,7 @@
 ### Technical Writing Portfolio – Words of Wisdom (WoW)
 
 author_name: Vijay Krishnan South Madavana Radhakrishnan
+
 author_profile: https://github.com/VijayKrishnanSR
 
 Hi,
