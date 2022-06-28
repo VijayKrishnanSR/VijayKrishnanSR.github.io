@@ -1,4 +1,4 @@
-### Technical Writing Portfolio – Words of Wisdom (WoW)
+### Technical Writing Portfolio
 
 Hi,
 
