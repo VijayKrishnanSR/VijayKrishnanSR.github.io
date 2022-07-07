@@ -1,4 +1,4 @@
-### Technical Writing Portfolio
+### Technical Writing / Product Enablement Portfolio
 
 Hi,
 
