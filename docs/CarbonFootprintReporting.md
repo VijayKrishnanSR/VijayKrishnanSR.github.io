@@ -5,9 +5,9 @@
 #### About Carbon Footprint Reporting
 
 As a global standard for carbon footprint accounting, the [Greenhouse Gas (GHG) protocol](https://ghgprotocol.org/standards/scope-3-standard) uses the concept of "scope" to define direct and indirect emission sources of greenhouse gases using three categories. This helps organizations report their carbon footprint with greater transparency.
--	**Scope 1** includes all direct emissions occurring from sources that are explicitly owned or controlled by the company. Ex: Emissions from boilers, furnaces, vehicles, etc. 
+-	**Scope 1** includes all direct emissions occurring from sources that are explicitly owned or controlled by the company. For example, emissions from boilers, furnaces, vehicles, etc. 
 -	**Scope 2** accounts for indirect emissions resulting from electricity purchased or consumed by the company. Actual emission occurs at the production site, for example, coal-fired power stations.
--	**Scope 3** covers all other indirect emissions following the activities of the company but occurring from sources not owned or controlled by the company. These emissions are associated with the organizational supply chain or value chain, contributing to the biggest share of the company's carbon footprint. Ex: Emissions produced by the computing infrastructure of the company's cloud service provider.
+-	**Scope 3** covers all other indirect emissions following the activities of the company but occurring from sources not owned or controlled by the company. These emissions are associated with the organizational supply chain or value chain, contributing to the biggest share of the company's carbon footprint. For example, emissions produced by the computing infrastructure of the company's cloud service provider.
 
 #### Why does it matter for building a Cloud Foundation?
 
