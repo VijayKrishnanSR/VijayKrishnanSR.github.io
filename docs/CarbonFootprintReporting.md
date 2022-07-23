@@ -1,4 +1,4 @@
-## [Home](https://vijaykrishnansr.github.io/) | [About](/docs/About.md) | [Blog post](/docs/Blogpost.md)
+## [Home](https://vijaykrishnansr.github.io/) | [About](https://vijaykrishnansr.github.io/docs/About.html) | [Blog post](/docs/Blogpost.md)
 
 ### Monthly Cloud Project Carbon Footprint Report – Cloud Foundation
 
