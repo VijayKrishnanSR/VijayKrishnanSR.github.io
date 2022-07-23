@@ -1,4 +1,4 @@
-## [Home](https://github.com/VijayKrishnanSR/VijayKrishnanSR.github.io/blob/09fc33edb4d767e9ad5682f86c96359bee1c4f57/README.md) | [About](docs/About.md) | [Blog post](docs/Blogpost/README.md)
+## [Home](/README.md) | [About](/docs/About.md) | [Blog post](/docs/Blogpost.md)
 
 ### Monthly Cloud Project Carbon Footprint Report – Cloud Foundation
 
