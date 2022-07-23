@@ -1,4 +1,4 @@
-## [Home](https://vijaykrishnansr.github.io/) | [About](/docs/About.md) | [Blog post](/docs/Blogpost.md)
+## [Home](README.md) | [About]() | [Blog post](/docs/Blogpost.md)
 
 I am curious about how people learn, which motivates me to transform information into meaningful and engaging learning experiences. These experiences help learners acquire skills and competencies which lead to an organization achieving its goals.
 
