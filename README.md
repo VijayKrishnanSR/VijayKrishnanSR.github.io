@@ -1,4 +1,4 @@
-## [About]() ## [Blog Posts]()  
+## [About]() ## [Blog Posts](docs/README.md)  
 
 ### Technical Writing / Product Enablement Portfolio
 
