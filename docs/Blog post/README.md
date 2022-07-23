@@ -1,1 +1,1 @@
-## [Home](README.md) | [About]() | [Blog post](docs/Blog post/README.md)
+## [Home](README.md) | [About]() | [Blog post](docs/Blogpost/README.md)
