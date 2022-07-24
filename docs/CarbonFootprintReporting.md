@@ -21,6 +21,6 @@ Carbon footprint reporting offers a tremendous opportunity for companies on thei
 
 According to GHG protocol standards, the carbon footprint reporting method uses a location-based footprint calculation involving gross carbon emissions from all electricity generating sources in use at a given location. Alternately, calculating emissions using a market-based footprint method is a more effective option to attribute emissions from carbon-free electricity sources.
 
-> **At [Google Cloud](https://cloud.google.com/carbon-footprint/docs/methodology), the market-based emission reports of the current year represent the share of carbon-free electricity purchased during the past year. Consequently, the location-based reports are identical to the market-based reports in regions consuming electricity only from non-green sources.**
+> At [Google Cloud](https://cloud.google.com/carbon-footprint/docs/methodology), the market-based emission reports of the current year represent the share of carbon-free electricity purchased during the past year. Consequently, the location-based reports are identical to the market-based reports in regions consuming electricity only from non-green sources.
 
 Finally, customers can choose their public cloud service providers and products according to the emission reports.
