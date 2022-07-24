@@ -1,3 +1,5 @@
+## [Home](https://vijaykrishnansr.github.io/) | [About](https://vijaykrishnansr.github.io/docs/About.html) | [Blog post](https://vijaykrishnansr.github.io/docs/Blogpost.html)
+
 ### What is Kubernetes?
 
 In today's world, software applications play a significant role in driving great experiences that foster long-lasting trust between the customer and the company. [According to a study](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf), companies that focus on deploying applications with speed and agility have achieved elite performance over their competitors. In the search for improving the deployment rate, the use of micro-services has risen as the smartest option. The performance of micro-services depends on the efficient allocation of resources within containers. Containers are instances of an image (template) that contain a writable layer to run applications. Kubernetes,the container management platform, is one of the best solutions available on the market that offers high efficiency in resource allocation. **What is the business value derived from adopting Kubernetes?**
