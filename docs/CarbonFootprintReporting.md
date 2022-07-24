@@ -23,4 +23,4 @@ According to GHG protocol standards, the carbon footprint reporting method uses 
 
 > At [Google Cloud](https://cloud.google.com/carbon-footprint/docs/methodology), the market-based emission reports of the current year represent the share of carbon-free electricity purchased during the past year. Consequently, the location-based reports are identical to the market-based reports in regions consuming electricity only from non-green sources.
 
-Finally, customers can choose their public cloud service providers and products according to the emission reports.
+Finally, companies can choose their public cloud service providers and products based on the emission reports.
