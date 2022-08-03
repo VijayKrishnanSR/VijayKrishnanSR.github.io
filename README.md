@@ -36,9 +36,9 @@ on the SAP Tutorial Navigator website:
 - Tutorials motivate the target audience to try the product in a free trial environment and test the latest product features.
 - Workshops provide an interactive platform for the audience to learn about the most requested topics relating to the product.
 
-|Enablement Content|Financial Impact|
+|Enablement Content|Impact|
 |:----------------:|:--------------:|
-|Tutorials         |12163 page views & unique visitors|
+|Tutorials         |12163 page views & 6401 unique visitors|
 |Workshop          |1.6k registrations, 800 unique attendees & 2 sales opportunities|
 |All Enablement content promoting SAP HANA Cloud Trial use|24 leads generated, 272 sales opportunities & helped to win 99 customers|
 
