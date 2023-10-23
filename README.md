@@ -1,16 +1,14 @@
 ## [Home](https://vijaykrishnansr.github.io/) | [About](docs/About.md) | [Blog Post](docs/Blogpost.md)  
 
-### Technical Writing / Product Enablement Portfolio
+### Product Enablement Portfolio
 
-Hi,
+Here, you will find the links to some of my tutorials on `SAP HANA Cloud`.
 
-I am Vijay! Here, you will find the links to some of my tutorials on `SAP HANA Cloud`.
-
-As an aspiring technical writer, I would love to hear your feedback on any of these work samples.
+I would love to hear your feedback on any of these work samples.
 
 #### Tutorials
 
-- While working as a Learning and Enablement Intern for `SAP HANA Cloud` at SAP, I published the following tutorials 
+- While working as a Product Enablement Intern for `SAP HANA Cloud` at SAP, I published the following tutorials 
 on the SAP Tutorial Navigator website:
 
 1. [**Data Anonymization in SAP HANA Cloud, SAP HANA Database**](https://developers.sap.com/group.hana-cloud-database-data-anonymization.html)
@@ -28,7 +26,7 @@ on the SAP Tutorial Navigator website:
 #### Workshop Series on SAP HANA Cloud
 
 - As part of the [SAP HANA Cloud Workshop series on Collaborative Database Development](https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&eventid=3342381&sessionid=1&key=E81F3BBAD36BF0C5BE73AFBC18EF81CD&groupId=2764517&sourcepage=register), I created the preparation document and the workbooks (.pdf file) for each of the three sessions. Check out the [preparation document](https://www.sap.com/documents/2021/09/4054ec9c-fa7d-0010-bca6-c68f7e60039b.html) for this workshop.
-- The workbooks are a step-by-step guide for all the instructions that were part of the workshop sessions. These instructions were later published as a tutorial group.
+- The workbooks are a step-by-step guide for all the instructions that were part of the workshop sessions. These instructions were later published as a group of tutorials.
 
 #### Business Impact
 
